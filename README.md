@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer<br><br>TECH STACK:<br>Agentic AI • AI • ML • NLP • CV • LLMs • Automation • AZURE<br><br>EXPERIANCE:<br>AI Intern @ Bajaj Finserv | ML Intern @ UVXCEL<br><br>PROJECTS:<br>RAG Prompt Generator • LLaMA-2 Fine-Tuning (QLoRA) • Agentic AI Voice Assistant • Document Information Extraction<br>
+AI/ML Engineer<br><br>TECH STACK:<br>Agentic AI • Gen AI • AI • ML • NLP • CV • LLMs • Automation • AZURE<br><br>EXPERIANCE:<br>AI Intern @ Bajaj Finserv | ML Intern @ UVXCEL<br><br>PROJECTS:<br>RAG Prompt Generator • LLaMA-2 Fine-Tuning (QLoRA) • Agentic AI Voice Assistant • Document Information Extraction<br>
 
 
 ## 🌐 Socials:
